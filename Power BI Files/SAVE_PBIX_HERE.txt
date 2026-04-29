@@ -1,0 +1,13 @@
+POWER BI FILE INSTRUCTIONS
+===========================
+After completing your Power BI DAX work, save your file here:
+
+  File → Save As → LW5_DAX_Cookie_Sales.pbix
+
+Your .pbix file must contain:
+  ✅ All 3 tables imported (LW5_Orders, LW5_Customers, LW5_Cookie_Types)
+  ✅ Relationships set in Model View (Customers→Orders, Cookie_Types→Orders)
+  ✅ Calculated Columns: Revenue Per Cookie, Customer Name (using RELATED)
+  ✅ 6 DAX Measures: Total Revenue, Total Cost, Total Profit,
+     Profit Margin %, Total Units Sold, Total Orders
+  ✅ Dashboard with KPI Cards + charts per the report
